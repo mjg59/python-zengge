@@ -1,7 +1,7 @@
 Python control for Zengge-style LED bulbs
 =========================================
 
-A simple Python API for controlling LED bulbs compatible with the [Zengge](http://www.enledcontroller.com/) protocol. This covers a wide range of bulbs. This code makes use of the PyBT2 branch of Mike Ryan's [PyBT](http://github.com/mikeryan/PyBT)
+A simple Python API for controlling LED bulbs compatible with the [Zengge](http://www.enledcontroller.com/) protocol. This covers a wide range of bulbs, including the Flux Bluetooth bulbs.
 
 Example use
 -----------

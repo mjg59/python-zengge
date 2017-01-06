@@ -8,17 +8,16 @@ import warnings
 
 dynamic_requires = []
 
-version = 0.1
+version = 0.2
 
 setup(
     name='zengge',
-    version=0.1,
+    version=0.2,
     author='Matthew Garrett',
     author_email='mjg59@srcf.ucam.org',
     url='http://github.com/mjg59/python-zengge',
     packages=find_packages(),
     scripts=[],
-    license=open('LICENSE').read(),
     description='Python API for controlling Zengge LED bulbs',
     classifiers=[
         'Development Status :: 4 - Beta',
